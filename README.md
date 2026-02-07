@@ -1,9 +1,9 @@
-# Task 11 – Naive Bayes Classification
+# Task 10 – Support Vector Machine (SVM)
 
-This project demonstrates classification using Naive Bayes algorithm.
+This project demonstrates classification using Support Vector Machine algorithm.
 
 ## Objective
-To build a classification model using Naive Bayes.
+To apply SVM for building a machine learning classification model.
 
 ## Tools & Technologies
 - Python  
@@ -13,13 +13,13 @@ To build a classification model using Naive Bayes.
 
 ## Steps Performed
 - Loaded dataset  
-- Data preprocessing  
-- Train-test split  
-- Trained Naive Bayes classifier  
-- Evaluated performance  
+- Preprocessed data  
+- Split dataset into train and test  
+- Trained SVM model  
+- Evaluated accuracy  
 
 ## Output
-Model predicts class of input data.
+Model predicts class labels for given input data.
 
 ---
 
